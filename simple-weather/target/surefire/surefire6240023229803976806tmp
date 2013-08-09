@@ -1,0 +1,5 @@
+#surefire
+#Fri Aug 09 14:35:02 CST 2013
+user.dir=F\:\\mavenLearn\\simple-weather
+localRepository=F\:\\java\\maven\\.m2\\repository\\path\\to\\local\\repo
+basedir=F\:\\mavenLearn\\simple-weather
